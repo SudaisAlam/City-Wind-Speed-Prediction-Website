@@ -5,4 +5,3 @@ Instructions for Pycharm :
 2) In the static folder add the css and js file for css js elements to work on webpage.Get it from here : https://materializecss.com/getting-started.html
 3) Complete explanation and tutorial on my youtube channel :https://www.youtube.com/watch?v=Pc8WdnIdXZg
 # Wind-Speed-Prediction-Python-Flask
-# City-Wind-Speed-Prediction-Website
